@@ -55,18 +55,16 @@ We can setting `Keys & Macro` to satisfy personal usage habits. (`Path:Settings-
 - `Ctrl+Alt+Right` Split: Exchange (swap) with nearest pane rightward: Split(4,1,0)
 - `Ctrl+G` Group keyboard input for visible splits: GroupInput(0)
 
-
-
-##### Transparency
-
-we can set cmder background transparency when window active and inactive. (`Path:Features-Transparency`)
-
 ##### VScode Split
+
+If Vscode is your main IDE, it's simple to integrate cmder and vscode by adding follow alias command in `user_aliases.cmd`
 
 ```bash
 vscode = "E:\VSCode\Microsoft VS Code\Code.exe" $1 -new_console:s70H
 ```
 
+![image-20200924134135296](.\imgs\cmder+vscode.png)
 
+##### Transparency
 
-
+we can set cmder background transparency when window active and inactive. (`Path:Features-Transparency`)
