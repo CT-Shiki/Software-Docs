@@ -4,7 +4,7 @@
 
 ### CMDer
 
-![Mmmm Monokai.](./imgs/cmder.png)
+![cmder](./imgs/cmder.png)
 
 `cmder` is created out of pure frustraction over the absence of nice console emulators on Windows. 
 
@@ -63,7 +63,7 @@ If Vscode is your main IDE, it's simple to integrate cmder and vscode by adding 
 vscode = "E:\VSCode\Microsoft VS Code\Code.exe" $1 -new_console:s70H
 ```
 
-![image-20200924134135296](.\imgs\cmder+vscode.png)
+![cmder+vscode](.\imgs\cmder+vscode.png)
 
 ##### Transparency
 
