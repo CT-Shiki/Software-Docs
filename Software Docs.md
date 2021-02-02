@@ -63,7 +63,7 @@ If Vscode is your main IDE, it's simple to integrate cmder and vscode by adding 
 vscode = "E:\VSCode\Microsoft VS Code\Code.exe" $1 -new_console:s70H
 ```
 
-![cmder+vscode](.\imgs\cmder+vscode.png)
+![cmder+vscode](./imgs/cmder+vscode.png)
 
 ##### Transparency
 
